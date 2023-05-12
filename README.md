@@ -1,4 +1,4 @@
-# FriendZone - A full-stack realtime messaging chat application
+# Realtime Chat App - A full-stack realtime messaging chat application with next.js
 
 A project to learn modern full-stack development made by Josh.
 
